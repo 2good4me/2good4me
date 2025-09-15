@@ -14,7 +14,6 @@
 ---
 
 ## 📫 Liên hệ
-- 💼 GitHub: [PhanTienDung-BIT230111](https://github.com/PhanTienDung-BIT230111)
 - ✉️ Email: phandung2k5@gmail.com
 - [🌐 Facebook](https://www.facebook.com/2gud4me)
 
